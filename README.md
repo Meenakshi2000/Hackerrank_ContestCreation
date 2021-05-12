@@ -1,7 +1,7 @@
 # Hackerrank_ContestCreation
 
 
-The porject helps us to create a new contest and add moderators to the created contest.
+The project helps to create a new contest and add moderators to the created contest.
 
 
 
